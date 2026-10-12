@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-label="Paleta da identidade visual">
   <style>
     .sans { font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, Arial, sans-serif; }
-    .mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, monospace; }
   </style>
-  <rect x="1" y="1" width="958" height="248" rx="16" fill="#13111C" stroke="#2E2A40" stroke-width="2"/>
-  <text x="32" y="44" class="sans" font-size="18" font-weight="700" fill="#ECE9F5">Paleta · uma cor por camada de teste</text>
+  <rect x="1" y="1" width="958" height="248" rx="18" fill="#0B1324" stroke="#22304F" stroke-width="2"/>
+  <text x="32" y="44" class="sans" font-size="18" font-weight="700" fill="#F3F6FC">Paleta · ouro é a marca, cada camada tem sua cor</text>
 
-  <g class="mono" font-size="13">
+  <g class="sans" font-size="13">
     <!-- base -->
-    <rect x="32"  y="70" width="96" height="72" rx="10" fill="#13111C" stroke="#2E2A40"/>
-    <text x="32"  y="164" fill="#ECE9F5">Noite</text><text x="32"  y="184" fill="#9C96B5">#13111C</text><text x="32" y="204" fill="#9C96B5">fundo</text>
-    <rect x="144" y="70" width="96" height="72" rx="10" fill="#1C1928" stroke="#2E2A40"/>
-    <text x="144" y="164" fill="#ECE9F5">Painel</text><text x="144" y="184" fill="#9C96B5">#1C1928</text><text x="144" y="204" fill="#9C96B5">superfície</text>
-    <rect x="256" y="70" width="96" height="72" rx="10" fill="#9C96B5"/>
-    <text x="256" y="164" fill="#ECE9F5">Névoa</text><text x="256" y="184" fill="#9C96B5">#9C96B5</text><text x="256" y="204" fill="#9C96B5">texto suave</text>
-    <rect x="368" y="70" width="96" height="72" rx="10" fill="#ECE9F5"/>
-    <text x="368" y="164" fill="#ECE9F5">Giz</text><text x="368" y="184" fill="#9C96B5">#ECE9F5</text><text x="368" y="204" fill="#9C96B5">texto · CI</text>
-    <!-- camadas -->
-    <rect x="496" y="70" width="80" height="72" rx="10" fill="#3DDC97"/>
-    <text x="496" y="164" fill="#3DDC97">Passa</text><text x="496" y="184" fill="#9C96B5">#3DDC97</text><text x="496" y="204" fill="#9C96B5">E2E web</text>
-    <rect x="588" y="70" width="80" height="72" rx="10" fill="#9D8CFF"/>
-    <text x="588" y="164" fill="#9D8CFF">Assert</text><text x="588" y="184" fill="#9C96B5">#9D8CFF</text><text x="588" y="204" fill="#9C96B5">API</text>
-    <rect x="680" y="70" width="80" height="72" rx="10" fill="#5CC8FF"/>
-    <text x="680" y="164" fill="#5CC8FF">Device</text><text x="680" y="184" fill="#9C96B5">#5CC8FF</text><text x="680" y="204" fill="#9C96B5">Mobile</text>
-    <rect x="772" y="70" width="80" height="72" rx="10" fill="#FFB547"/>
-    <text x="772" y="164" fill="#FFB547">Carga</text><text x="772" y="184" fill="#9C96B5">#FFB547</text><text x="772" y="204" fill="#9C96B5">Performance</text>
-    <rect x="864" y="70" width="64" height="72" rx="10" fill="#FF6B81"/>
-    <text x="864" y="164" fill="#FF6B81">Falha</text><text x="864" y="184" fill="#9C96B5">#FF6B81</text><text x="864" y="204" fill="#9C96B5">só alerta</text>
+    <rect x="32"  y="70" width="96" height="72" rx="10" fill="#0B1324" stroke="#22304F"/>
+    <text x="32"  y="164" font-weight="700" fill="#F3F6FC">Noite</text><text x="32"  y="184" fill="#A9B4C8">#0B1324</text><text x="32" y="204" fill="#7C89A3">fundo</text>
+    <rect x="144" y="70" width="96" height="72" rx="10" fill="#121C33" stroke="#22304F"/>
+    <text x="144" y="164" font-weight="700" fill="#F3F6FC">Painel</text><text x="144" y="184" fill="#A9B4C8">#121C33</text><text x="144" y="204" fill="#7C89A3">superfície</text>
+    <rect x="256" y="70" width="96" height="72" rx="10" fill="#A9B4C8"/>
+    <text x="256" y="164" font-weight="700" fill="#F3F6FC">Névoa</text><text x="256" y="184" fill="#A9B4C8">#A9B4C8</text><text x="256" y="204" fill="#7C89A3">texto suave</text>
+    <rect x="368" y="70" width="96" height="72" rx="10" fill="#F3F6FC"/>
+    <text x="368" y="164" font-weight="700" fill="#F3F6FC">Neve</text><text x="368" y="184" fill="#A9B4C8">#F3F6FC</text><text x="368" y="204" fill="#7C89A3">texto principal</text>
+    <!-- marca e camadas -->
+    <rect x="496" y="70" width="80" height="72" rx="10" fill="#F5B841"/>
+    <text x="496" y="164" font-weight="700" fill="#F5B841">Ouro</text><text x="496" y="184" fill="#A9B4C8">#F5B841</text><text x="496" y="204" fill="#7C89A3">marca · API</text>
+    <rect x="588" y="70" width="80" height="72" rx="10" fill="#2DD4BF"/>
+    <text x="588" y="164" font-weight="700" fill="#2DD4BF">Turquesa</text><text x="588" y="184" fill="#A9B4C8">#2DD4BF</text><text x="588" y="204" fill="#7C89A3">E2E · aprovado</text>
+    <rect x="680" y="70" width="80" height="72" rx="10" fill="#7DD3FC"/>
+    <text x="680" y="164" font-weight="700" fill="#7DD3FC">Céu</text><text x="680" y="184" fill="#A9B4C8">#7DD3FC</text><text x="680" y="204" fill="#7C89A3">Mobile</text>
+    <rect x="772" y="70" width="80" height="72" rx="10" fill="#FB7185"/>
+    <text x="772" y="164" font-weight="700" fill="#FB7185">Coral</text><text x="772" y="184" fill="#A9B4C8">#FB7185</text><text x="772" y="204" fill="#7C89A3">Performance</text>
+    <rect x="864" y="70" width="64" height="72" rx="10" fill="url(#g)"/>
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F5B841"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient></defs>
+    <text x="864" y="164" font-weight="700" fill="#F3F6FC">Destaque</text><text x="864" y="184" fill="#A9B4C8">ouro→</text><text x="864" y="204" fill="#7C89A3">turquesa</text>
   </g>
 </svg>
