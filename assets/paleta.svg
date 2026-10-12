@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-label="Paleta da identidade visual">
+  <style>
+    .sans { font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, monospace; }
+  </style>
+  <rect x="1" y="1" width="958" height="248" rx="16" fill="#13111C" stroke="#2E2A40" stroke-width="2"/>
+  <text x="32" y="44" class="sans" font-size="18" font-weight="700" fill="#ECE9F5">Paleta · uma cor por camada de teste</text>
+
+  <g class="mono" font-size="13">
+    <!-- base -->
+    <rect x="32"  y="70" width="96" height="72" rx="10" fill="#13111C" stroke="#2E2A40"/>
+    <text x="32"  y="164" fill="#ECE9F5">Noite</text><text x="32"  y="184" fill="#9C96B5">#13111C</text><text x="32" y="204" fill="#9C96B5">fundo</text>
+    <rect x="144" y="70" width="96" height="72" rx="10" fill="#1C1928" stroke="#2E2A40"/>
+    <text x="144" y="164" fill="#ECE9F5">Painel</text><text x="144" y="184" fill="#9C96B5">#1C1928</text><text x="144" y="204" fill="#9C96B5">superfície</text>
+    <rect x="256" y="70" width="96" height="72" rx="10" fill="#9C96B5"/>
+    <text x="256" y="164" fill="#ECE9F5">Névoa</text><text x="256" y="184" fill="#9C96B5">#9C96B5</text><text x="256" y="204" fill="#9C96B5">texto suave</text>
+    <rect x="368" y="70" width="96" height="72" rx="10" fill="#ECE9F5"/>
+    <text x="368" y="164" fill="#ECE9F5">Giz</text><text x="368" y="184" fill="#9C96B5">#ECE9F5</text><text x="368" y="204" fill="#9C96B5">texto · CI</text>
+    <!-- camadas -->
+    <rect x="496" y="70" width="80" height="72" rx="10" fill="#3DDC97"/>
+    <text x="496" y="164" fill="#3DDC97">Passa</text><text x="496" y="184" fill="#9C96B5">#3DDC97</text><text x="496" y="204" fill="#9C96B5">E2E web</text>
+    <rect x="588" y="70" width="80" height="72" rx="10" fill="#9D8CFF"/>
+    <text x="588" y="164" fill="#9D8CFF">Assert</text><text x="588" y="184" fill="#9C96B5">#9D8CFF</text><text x="588" y="204" fill="#9C96B5">API</text>
+    <rect x="680" y="70" width="80" height="72" rx="10" fill="#5CC8FF"/>
+    <text x="680" y="164" fill="#5CC8FF">Device</text><text x="680" y="184" fill="#9C96B5">#5CC8FF</text><text x="680" y="204" fill="#9C96B5">Mobile</text>
+    <rect x="772" y="70" width="80" height="72" rx="10" fill="#FFB547"/>
+    <text x="772" y="164" fill="#FFB547">Carga</text><text x="772" y="184" fill="#9C96B5">#FFB547</text><text x="772" y="204" fill="#9C96B5">Performance</text>
+    <rect x="864" y="70" width="64" height="72" rx="10" fill="#FF6B81"/>
+    <text x="864" y="164" fill="#FF6B81">Falha</text><text x="864" y="184" fill="#9C96B5">#FF6B81</text><text x="864" y="204" fill="#9C96B5">só alerta</text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="Divisor: pipeline de testes">
+  <path d="M0 12 H1200" stroke="#2E2A40" stroke-width="2"/>
+  <g stroke="#13111C" stroke-width="3">
+    <circle cx="200"  cy="12" r="6" fill="#3DDC97"/>
+    <circle cx="400"  cy="12" r="6" fill="#9D8CFF"/>
+    <circle cx="600"  cy="12" r="6" fill="#5CC8FF"/>
+    <circle cx="800"  cy="12" r="6" fill="#FFB547"/>
+    <circle cx="1000" cy="12" r="6" fill="#ECE9F5"/>
+  </g>
+</svg>
